@@ -1,0 +1,31 @@
+<Net>
+
+  <Dots>
+
+    <Dot X="0.353553742" Y="0.353553742" Z="0.353553742" Label="A" />
+
+    <Dot X="-0.353553742" Y="-0.353553742" Z="0.353553742" Label="B" />
+
+    <Dot X="-0.353553742" Y="0.353553742" Z="-0.353553742" Label="C" />
+
+    <Dot X="0.353553742" Y="-0.353553742" Z="-0.353553742" Label="D" />
+
+  </Dots>
+
+  <Links>
+
+    <Link A="0" B="1" Label="Zero" />
+
+    <Link A="0" B="2" Label="One" />
+
+    <Link A="0" B="3" Label="Two" />
+
+    <Link A="1" B="3" Label="Three" />
+
+    <Link A="1" B="2" Label="Four" />
+
+    <Link A="2" B="3" Label="Five" />
+
+  </Links>
+
+</Net>
